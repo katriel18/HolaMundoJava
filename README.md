@@ -1,3 +1,3 @@
 # HolaMundoJava
 
-##.gitignore automatico desde apache netbeans
+## .gitignore automatico desde apache netbeans
